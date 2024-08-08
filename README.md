@@ -1,8 +1,8 @@
-# 🌟 My React Portfolio
+# 🌟 My Portfolio
 
-Welcome to my **React Portfolio** project! This application is a showcase of my skills, experience, and the projects I’ve worked on. It's built using React and demonstrates a clean, responsive, and modern design.
+Welcome to my **Portfolio** project! This application is a showcase of my skills, experience, and the projects I’ve worked on. It's built using React and demonstrates a clean, responsive, and modern design.
 
-![Portfolio Banner](https://sharad-react-portfolio.netlify.app/) <!-- Replace this with an actual image URL -->
+[Checkout MY Portfolio](https://sharad-react-portfolio.netlify.app/) <!-- Replace this with an actual image URL -->
 
 ## 🚀 Features
 
