@@ -61,6 +61,6 @@ This project deployed at platform [Netlify](https://www.netlify.com/).
 Feel free to reach out for any questions or collaborations:
 
 - **Email**: [patidarsharad01@gmail.com](mailto:patidarsharad01@gmail.com)
-- **LinkedIn**: [sharadpatidar_](https://linkedin.com/in/sharadpatidar_)
+- **LinkedIn**: [sharadpatidar](https://linkedin.com/in/sharadpatidar)
 
 **Thank you for visiting my portfolio! I hope you enjoy exploring my work.** 💼✨
