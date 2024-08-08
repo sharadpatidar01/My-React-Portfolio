@@ -50,8 +50,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ## 🌐 Deployment
 
-This project deployed at platform [Netlify](https://www.netlify.com/), or [Checkout Portfolio](https://sharad-react-portfolio.netlify.app/). 
-
+This project deployed at platform [Netlify](https://www.netlify.com/).
 1. **Build the project**:
    ```bash
    npm run build
